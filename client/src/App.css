@@ -1,0 +1,44 @@
+.full,.App,body,#root,html {
+  height: 100%;
+}
+
+
+
+.project_editor{
+  height:40%;
+  padding:10px;
+}
+
+#project{
+  background-color: #EDEDED;
+}
+
+#buildings{
+  background-color: #CA3333;
+}
+
+
+#mapsection{
+  display: block;
+  height: 60%;
+}
+
+#sections{
+  background-color: #3B92DB;
+}
+
+.header {
+  background-color: #86E1F2;
+  height: 60px;
+  padding: 10px;
+  color: white;
+}
+
+.App-intro {
+  font-size: large;
+}
+
+@keyframes App-logo-spin {
+  from { transform: rotate(0deg); }
+  to { transform: rotate(360deg); }
+}
